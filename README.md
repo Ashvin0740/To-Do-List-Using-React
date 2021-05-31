@@ -11,11 +11,10 @@ npm start
 The demo will be live at http://localhost:3000
 ```
 ## Live demo
- ```
+
 [Click here to see live demo](https://to-dos-list.netlify.app/)
 
-```
 
-🎉 Acknowledgements & Inspiration
+## 🎉 Acknowledgements & Inspiration
 
 [CodeWithHarry](https://www.youtube.com/watch?v=RGKi6LSPDLU)
