@@ -1,17 +1,20 @@
 # To-Do-List-Using_React
-simple todos App
 
-## how to get it in your PC&Laptop
+### simple todos App
+
+## How to get it in your PC&Laptop
 ```
-git clone https://github.com/Akash52/find-github-profiles
+git clone https://github.com/Ashvin0740/To-Do-List-Using-React.git
 cd react-chatbot
 npm install
 npm start
 The demo will be live at http://localhost:3000
 ```
-
- 
+## Live demo
+ ```
 [Click here to see live demo](https://to-dos-list.netlify.app/)
+
+```
 
 🎉 Acknowledgements & Inspiration
 
