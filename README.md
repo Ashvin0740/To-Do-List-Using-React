@@ -1,6 +1,8 @@
 # To-Do-List-Using-React
 
-### simple todos App
+### Simple todos App
+
+## [See Live Demo](https://to-do-list-using-react.netlify.app/)
 
 ## How to get it in your PC&Laptop
 ```
